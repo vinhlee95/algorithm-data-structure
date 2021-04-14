@@ -1,6 +1,4 @@
-# Git Repository to follow along with Coursera course: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-
-* [Course URL](https://www.coursera.org/learn/algorithms-divide-conquer)
+# This repository to document on learning [Algorithms Specialization course](https://www.coursera.org/specializations/algorithms)
 
 ## Installation
 Create virtual environment to run Python3
