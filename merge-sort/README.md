@@ -28,6 +28,8 @@ Count the work done by an algorithm, used in algorithm analysis.
 	* -> Total amount of operations in level `j`: `2^j x (6 x (n/2^j))` = `6n`
 * Total amount of operations in *all levels*: `6n x (log2n + 1)`
 
+-> Running time for Merge Sort algorithm is `O(nlogn)`
+
 ## Guilding principles in algorithm analysis
 1. Worst-case analysis
 2. Pay no (or less) attention to constant factors, i.e lower-order terms (4n + 2 ~ 6n)
